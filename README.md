@@ -1,6 +1,13 @@
 # MySQL
 Database
 
+
+Note:
+1) start sever: command line: /usr/local/mysql/bin/mysql -u root -p
+
+
+
+
 Problems:
 
 1)Command:  LOAD DATA LOCAL INFILE '/Users/marktoms/Desktop/menagerie-db/pet.txt' INTO TABLE pet;
